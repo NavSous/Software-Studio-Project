@@ -1,0 +1,307 @@
+.backDiv,
+.rawDataCarbonConcentratio {
+  position: absolute;
+  display: inline-block;
+}
+.rawDataCarbonConcentratio {
+  top: calc(50% - 439.5px);
+  left: calc(50% - 429px);
+  font-size: var(--font-size-4xl);
+  width: 857.23px;
+  height: 87px;
+}
+.backDiv {
+  top: calc(50% - 422.5px);
+  left: calc(50% - 619px);
+  width: 98.95px;
+  height: 53px;
+  cursor: pointer;
+}
+.rectangle491 {
+  top: calc(50% - 275.5px);
+  left: calc(50% - -245px);
+  width: 400px;
+  height: 359.79px;
+  object-fit: cover;
+}
+.rectangle491,
+.rectangle511,
+.rectangleIcon {
+  position: absolute;
+  border-radius: var(--br-sm);
+}
+.rectangle511 {
+  top: calc(50% - 344.5px);
+  left: calc(50% - 205px);
+  width: 410px;
+  height: 349px;
+  object-fit: cover;
+}
+.rectangleIcon {
+  top: calc(50% - 144px);
+  left: calc(50% - 198.5px);
+  width: 319.71px;
+  height: 288px;
+}
+.dailyDataB {
+  position: absolute;
+  top: calc(50% - 127px);
+  left: calc(50% - 170.35px);
+  display: inline-block;
+  width: 280.44px;
+  height: 75px;
+}
+.groupA,
+.sEETHEDATA {
+  position: absolute;
+  width: 187.63px;
+  height: 33px;
+}
+.sEETHEDATA {
+  top: calc(50% - 16.5px);
+  left: calc(50% - 93.82px);
+  display: inline-block;
+}
+.groupA {
+  text-decoration: none;
+  top: calc(50% - -94px);
+  left: calc(50% - 175.39px);
+  font-size: var(--font-size-lg);
+  color: var(--color-indigo);
+}
+.dailyDataAsUpdatedByTheN {
+  position: absolute;
+  top: calc(50% - 62px);
+  left: calc(50% - 170.53px);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 237.78px;
+  height: 90px;
+}
+.lineIcon {
+  position: absolute;
+  top: calc(50% - -77.97px);
+  left: calc(50% - 198.47px);
+  width: 396.99px;
+  height: 5.71px;
+}
+.arrowIcon,
+.groupDiv {
+  position: absolute;
+  top: calc(50% - -104.48px);
+  left: calc(50% - 24.07px);
+  width: 19.92px;
+  height: 11.05px;
+}
+.groupDiv {
+  top: calc(50% - -28.5px);
+  left: calc(50% - -287px);
+  width: 397px;
+  height: 288px;
+  font-size: var(--font-size-3xl);
+}
+.rectangleIcon1 {
+  position: absolute;
+  top: calc(50% - 159px);
+  left: calc(50% - 198.77px);
+  border-radius: var(--br-sm);
+  width: 348px;
+  height: 318px;
+}
+.ourPlotsB {
+  position: absolute;
+  top: calc(50% - 141px);
+  left: calc(50% - 170.42px);
+  display: inline-block;
+  width: 280.7px;
+  height: 75px;
+}
+.groupA1,
+.sEETHECODE {
+  position: absolute;
+  width: 208px;
+  height: 33px;
+}
+.sEETHECODE {
+  top: calc(50% - 16.5px);
+  left: calc(50% - 104px);
+  display: inline-block;
+}
+.groupA1 {
+  text-decoration: none;
+  top: calc(50% - -107px);
+  left: calc(50% - 170.42px);
+  font-size: var(--font-size-xl);
+  color: var(--color-indigo);
+}
+.groupA1:hover,
+.groupA2:hover,
+.image41:hover {
+  cursor: grab;
+}
+.customPlotsCreatedByUWashi {
+  position: absolute;
+  top: calc(50% - 82px);
+  left: calc(50% - 173.77px);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 269px;
+  height: 90px;
+}
+.lineIcon1 {
+  position: absolute;
+  top: calc(50% - -87.41px);
+  left: calc(50% - 198.57px);
+  width: 397.35px;
+  height: 6px;
+}
+.arrowIcon1,
+.groupDiv1 {
+  position: absolute;
+  top: calc(50% - -118.48px);
+  left: calc(50% - -0.22px);
+  width: 19.93px;
+  height: 11.05px;
+}
+.groupDiv1 {
+  top: calc(50% - 48.5px);
+  left: calc(50% - 178px);
+  width: 397.54px;
+  height: 318px;
+  font-size: 40px;
+}
+.rectangle531,
+.rectangleIcon2 {
+  position: absolute;
+  border-radius: var(--br-sm);
+}
+.rectangle531 {
+  top: calc(50% - 293px);
+  left: calc(50% - 213px);
+  width: 400px;
+  height: 359.79px;
+  object-fit: cover;
+}
+.rectangleIcon2 {
+  top: 0;
+  left: 0.63px;
+  width: 347.71px;
+  height: 288px;
+}
+.monthlyDataAsUpdatedByThe,
+.monthlyDataB {
+  position: absolute;
+  top: 17px;
+  left: 28.13px;
+  display: inline-block;
+  width: 280.46px;
+  height: 75px;
+}
+.monthlyDataAsUpdatedByThe {
+  top: 82px;
+  left: 28.6px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  width: 276.77px;
+  height: 90px;
+}
+.lineIcon2,
+.sEETHEDATA1 {
+  position: absolute;
+  top: 221.97px;
+  left: 0;
+  width: 397.01px;
+  height: 5.87px;
+}
+.sEETHEDATA1 {
+  top: 0;
+  display: inline-block;
+  width: 158.39px;
+  height: 32px;
+}
+.arrowIcon2,
+.groupA2 {
+  position: absolute;
+  top: 10.48px;
+  left: 153.34px;
+  width: 19.92px;
+  height: 11.05px;
+}
+.groupA2 {
+  text-decoration: none;
+  top: 238px;
+  left: 23.08px;
+  width: 172.51px;
+  height: 32px;
+  font-size: var(--font-size-lg);
+  color: var(--color-indigo);
+}
+.groupDiv4 {
+  position: absolute;
+  top: 298px;
+  left: 29px;
+  width: 397px;
+  height: 288px;
+}
+.groupDiv2,
+.groupDiv3 {
+  position: absolute;
+  top: calc(50% - 293px);
+  left: calc(50% - 213px);
+  width: 426px;
+  height: 586px;
+}
+.groupDiv2 {
+  top: calc(50% - 269.5px);
+  left: calc(50% - 656px);
+  font-size: var(--font-size-3xl);
+}
+.contactUsB {
+  position: absolute;
+  top: calc(50% - -301.5px);
+  left: calc(50% - 89.87px);
+  display: inline-block;
+  width: 184.77px;
+  height: 49px;
+}
+.image21,
+.image31,
+.image41 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - -357.5px);
+  left: calc(50% - 124.2px);
+  width: 69.67px;
+  height: 69px;
+  background-image: url(../../public/image21@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image31,
+.image41 {
+  left: calc(50% - 33.33px);
+  width: 70.68px;
+  background-image: url(../../public/image31@3x.png);
+}
+.image41 {
+  left: calc(50% - -61.58px);
+  width: 69.67px;
+  background-image: url(../../public/image41@3x.png);
+}
+.frameDiv {
+  position: relative;
+  background-color: var(--color-beige);
+  width: 100%;
+  height: 1339px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

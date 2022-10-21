@@ -1,0 +1,248 @@
+@keyframes pulsate {
+  0% {
+    transform: scale(1);
+    transform-origin: center center;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    transform: scale(0.91);
+    animation-timing-function: ease-in;
+  }
+  17% {
+    transform: scale(0.98);
+    animation-timing-function: ease-out;
+  }
+  33% {
+    transform: scale(0.87);
+    animation-timing-function: ease-in;
+  }
+  45% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+  }
+}
+@keyframes scale-down-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  to {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 159px);
+  border-radius: 12px;
+  background-color: var(--color-indigo);
+  box-shadow: 0 10px 60px rgba(226, 236, 249, 0.5);
+  width: 318px;
+  height: 73px;
+}
+.rawDataDiv {
+  position: absolute;
+  top: 11px;
+  left: calc(50% - 71px);
+  font-size: var(--font-size-2xl);
+  letter-spacing: -0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+  width: 173.72px;
+  height: 40.34px;
+}
+.search1Icon {
+  position: absolute;
+  top: 17px;
+  left: calc(50% - 147px);
+  width: 28px;
+  height: 37px;
+  overflow: hidden;
+}
+.groupDiv,
+.searchButton {
+  position: absolute;
+  width: 318px;
+  height: 73px;
+}
+.searchButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: calc(50% - 159px);
+}
+.searchButton:hover {
+  cursor: pointer;
+  animation: 1s ease 0s 1 normal none pulsate;
+  opacity: 1;
+}
+.searchButton:active {
+  animation: 1s ease 0s 1 normal none scale-down-center;
+  opacity: 1;
+}
+.groupDiv {
+  top: 881px;
+  left: calc(50% - 176px);
+}
+.theNuevaSchoolCarbonConc {
+  position: absolute;
+  top: 71px;
+  left: calc(50% - 505px);
+  display: inline-block;
+}
+.cloud1ByStreamlinehq1,
+.leafFlutteringInWindByStr {
+  position: absolute;
+  top: 207px;
+  left: calc(50% - 93px);
+  width: 56px;
+  height: 51px;
+  object-fit: cover;
+}
+.leafFlutteringInWindByStr {
+  top: 199px;
+  left: calc(50% - -286px);
+  width: 55px;
+  height: 57px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 644px);
+  border-radius: var(--br-md);
+  width: 1288px;
+  height: 250px;
+}
+.dailyConcentrationDiv {
+  position: absolute;
+  top: 7.55px;
+  left: calc(50% - 369.16px);
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.01em;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 188.93px;
+  height: 18.08px;
+}
+.groupDiv3,
+.groupIcon {
+  position: absolute;
+  top: 0;
+}
+.groupIcon {
+  height: 100%;
+  bottom: 0;
+  left: calc(50% - -284.16px);
+  max-height: 100%;
+  width: 85px;
+}
+.groupDiv3 {
+  left: calc(50% - 413.41px);
+  width: 738.31px;
+  height: 85px;
+}
+.concentrationDiv,
+.concentrationGoalDiv {
+  position: absolute;
+  top: 1.72px;
+  left: calc(50% - 218.47px);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 173.38px;
+  height: 18.08px;
+}
+.concentrationGoalDiv {
+  top: 0;
+  left: calc(50% - -162.98px);
+  width: 162.62px;
+}
+.groupDiv4,
+.groupIcon1 {
+  position: absolute;
+  top: 1.44px;
+  left: calc(50% - 325.6px);
+  width: 85px;
+  height: 85px;
+}
+.groupDiv4 {
+  top: 5.83px;
+  left: calc(50% - 139.1px);
+  width: 651.19px;
+  height: 86.44px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.groupDiv5,
+.groupIcon2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 512px);
+  width: 85px;
+  height: 85px;
+}
+.groupDiv5 {
+  top: 7px;
+  left: calc(50% - 512.1px);
+  width: 1024px;
+  color: var(--color-gray-700);
+}
+.lineDiv,
+.lineDiv1 {
+  position: absolute;
+  top: 6.19px;
+  left: calc(50% - 210.63px);
+  border-right: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1px;
+  height: 75.9px;
+}
+.lineDiv1 {
+  left: calc(50% - -161.24px);
+}
+.earningDiv,
+.groupDiv2 {
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 483px);
+  width: 1024.19px;
+  height: 92.27px;
+}
+.earningDiv {
+  top: 0;
+  left: calc(50% - 584px);
+  width: 1168px;
+  height: 130px;
+}
+.group231 {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: 111px;
+  width: 64px;
+  height: 58px;
+  object-fit: cover;
+}
+.groupDiv1 {
+  position: absolute;
+  top: 162px;
+  left: calc(50% - 579px);
+  width: 1168px;
+  height: 130px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-500);
+}
+.dashboardDiv {
+  position: relative;
+  background-color: var(--color-beige);
+  width: 100%;
+  height: 990px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

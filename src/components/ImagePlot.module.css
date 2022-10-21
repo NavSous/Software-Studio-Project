@@ -1,0 +1,9 @@
+.image1Icon {
+  position: absolute;
+  top: calc(50% - 170px);
+  left: calc(50% - 556px);
+  border-radius: var(--br-lg);
+  width: 1111px;
+  height: 530px;
+  object-fit: cover;
+}

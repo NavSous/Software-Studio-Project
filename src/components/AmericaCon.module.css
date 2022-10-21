@@ -1,0 +1,15 @@
+.ppmDiv {
+  position: absolute;
+  top: 38.18px;
+  left: calc(50% - -12.16px);
+  letter-spacing: -0.01em;
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+  width: 183px;
+  height: 27.27px;
+  cursor: pointer;
+}
+.ppmDiv:hover {
+  color: var(--color-indigo);
+}
